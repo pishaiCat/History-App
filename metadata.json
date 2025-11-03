@@ -1,0 +1,5 @@
+{
+  "name": "Bulk Image Generator",
+  "description": "Generate multiple images from a list of prompts. Select different styles and aspect ratios to bring your ideas to life.",
+  "requestFramePermissions": []
+}
